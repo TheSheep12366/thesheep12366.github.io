@@ -1,10 +1,6 @@
 [
-  {
-    "image": "ads/ad1792889870.jpg",
-    "link": "https://jhapp.xo.je"
-  },
-  {
-    "image": "ads/ad1792889917.jpg",
-    "link": "https://example.com/demo2"
-  }
+    {
+        "image": "ads\/ad1792889917.jpg",
+        "link": "https:\/\/example.com\/demo2"
+    }
 ]
